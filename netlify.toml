@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://secrets-to-opportunities.super.site/"
+  status = 301 
+  force = true
